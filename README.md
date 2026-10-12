@@ -24,7 +24,7 @@ This project presents an interactive **Flipkart Data Dashboard** built using Mic
 The objective of this project is to convert business data into meaningful visual insights, making it easier to understand sales performance, customer payment preferences, product categories, and monthly profit trends.
 
 ## 📷 Dashboard Preview
-Add your dashboard screenshot here.
+<img width="1165" height="657" alt="Screenshot 2026-10-12 224711" src="https://github.com/user-attachments/assets/0442c904-d843-41ee-93e2-0d27841d242d" />
 
 ## 📚 Key Learnings
 - Creating interactive dashboards in Power BI
